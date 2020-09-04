@@ -82,7 +82,7 @@ header img{
 }
 .header-container {
     display:flex;
-    width: 800px%;
+    width: 800px;
     height:35px;
 }
 header nav{
@@ -97,7 +97,7 @@ header a{
     text-decoration:none;
     color:black;
     padding:1% 2%;
-    text align:center;
+    text-align:center;
     font-size:1.6rem;
 }
 header a:hover{
